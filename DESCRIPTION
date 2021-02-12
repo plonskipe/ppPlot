@@ -1,0 +1,11 @@
+Package: ppPlot
+Type: Package
+Title: P-P Plot for Single Continuous Variable
+Version: 0.1.0
+Author: Paul E. Plonski
+Maintainer: Paul E. Plonski <paul.plonski@tufts.edu>
+Description: Function will take in a data frame and return a P-P plot of the cumulative probability distribution (y) on the hypothetical cumulative probability distribution (x)  
+License: Creative Commons Zero v1.0 Universal
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2, ggthemes
